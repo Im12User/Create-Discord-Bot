@@ -21,7 +21,7 @@ This code is for some people who don't know much programming and want to have a 
 6. Enter the config.py file
 7. You fill in the requested information
 8. Mine.py and config.py files are placed in the same folder
-9. Open the mine.py file and wait until the file is executed
+9. Open the [mine.py](https://github.com/Im12User/Create-Discord-Bot/blob/main/mine.py) file and wait until the file is executed
 10. Your bot is running and you can use it
 
 _You must turn on all bot ticks except for **REQUIRES OAUTH2 CODE GRANT** when you create a bot!_
