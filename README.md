@@ -27,7 +27,11 @@ This code is for some people who don't know much programming and want to have a 
 _You must turn on all bot ticks except for **REQUIRES OAUTH2 CODE GRANT** when you create a bot!_
 
 **Social media:**
+
 Discord: Im.User#5550 - 928668602733838377
+
+
 Github: Im12User
+
 
 V1.0.0
