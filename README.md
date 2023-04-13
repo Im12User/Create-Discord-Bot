@@ -29,3 +29,5 @@ _You must turn on all bot ticks except for **REQUIRES OAUTH2 CODE GRANT** when y
 **Social media:**
 Discord: Im.User#5550 - 928668602733838377
 Github: Im12User
+
+V1.0.0
