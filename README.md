@@ -7,10 +7,10 @@ This code is for some people who don't know much programming and want to have a 
 1. Animated status and activity
 2. Join voice
 3. Command avatar
-4. Info server
+4. Server info
 5. User info
 6. Ping
-7. Rainbow Roll
+7. Rainbow Role
 
 **How to build and run the bot:**
 1. Enter the [discord developer](https://discord.com/developers/applications) site
@@ -28,7 +28,7 @@ _You must turn on all bot ticks except for **REQUIRES OAUTH2 CODE GRANT** when y
 
 **Social media:**
 
-Discord: [Im.User#5550](https://discord.com/channels/@me/928668602733838377)
+Discord: [Im.User#0012](https://discord.com/channels/@me/928668602733838377)
 Github: [Im12User](https://github.com/Im12User)
 
 
