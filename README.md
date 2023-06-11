@@ -20,7 +20,7 @@ This code is for some people who don't know much programming and want to have a 
 5. Add a bot to the desired server
 6. Enter the [config.py](https://github.com/Im12User/Create-Discord-Bot/blob/main/config.py) file
 7. You fill in the requested information
-8. [Mine.py](https://github.com/Im12User/Create-Discord-Bot/blob/main/mine.py) and [config.py](https://github.com/Im12User/Create-Discord-Bot/blob/main/config.py) files are placed in the same folder
+8. [Main.py](https://github.com/Im12User/Create-Discord-Bot/blob/main/mine.py) and [config.py](https://github.com/Im12User/Create-Discord-Bot/blob/main/config.py) files are placed in the same folder
 9. Open the [mine.py](https://github.com/Im12User/Create-Discord-Bot/blob/main/mine.py) file and wait until the file is executed
 10. Your bot is running and you can use it
 
